@@ -870,10 +870,10 @@ body {
 }
 
 .the-bar {
-  width: 450px;
+  width: 90%;
   margin: .3em;
   margin-right: 1em;
-  border-radius: 20px;
+  border-radius: 60px;
   padding: 1em;
 }
 
