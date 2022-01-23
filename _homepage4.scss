@@ -1,0 +1,142 @@
+.whole-p4{
+    height: 1000px;
+    background-image: url(../../images/p4-wall.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.p3-up-boxes{
+    display: flex;
+    justify-content: center;
+   
+}
+.first2{
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px lightgray;
+    display: flex;
+    margin-right: 2em;
+    height: 40px;
+}
+.first2 i{
+    cursor: pointer;
+    margin-top: .4em;
+    margin-left: 1em;
+    margin-right: 1em;
+    color: blue;
+}
+.first2 a{
+    text-decoration: none;
+    color:black;
+    margin-top: .4em;
+}
+.first2-inner{
+    display: flex;
+    width:142px;
+    background-color:whitesmoke; 
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.sep{
+    margin-right:.3em;
+}
+.center{
+   display: flex;
+    justify-content: center;
+}
+.center-txt{
+    text-align: center;
+}
+.margin-top{
+    margin-top: 3em;
+    margin-bottom: 7em;
+}
+.p4heart{
+    margin-top: 1em;
+    margin-bottom:2.6em;
+}
+
+.p4-text p {
+    color:rgba(255, 255, 255, 1);
+    margin-bottom:.5em;
+}
+.p4-text h1{
+color: white;
+
+}
+
+.p4-3div-sec{
+  height:500px;
+  
+}
+
+.strokeme {
+    color:rgba(4,56,106,255);
+    font-size: 4rem;
+    text-shadow: -1px -1px 1px rgb(245, 241, 241), 1px -1px 1px rgb(248, 247, 247), -1px 1px 1px rgb(248, 245, 245), 1px 1px 0 rgb(247, 244, 244);
+    position: relative;
+    bottom:.3em;
+    right:.7em;
+
+  }
+  .p4-3div-sec{
+      height: 500px;
+      margin-top:5em;
+  }
+  .dim-circle{
+      border-radius: 50%;
+      height: 300px;
+      width:20vw;
+      background-color: rgba(255, 255, 255, .1);
+      margin-right: 3em;
+  }
+  .p4-cards{
+      position: relative;
+      top:3em;
+      left: 1em;
+      height: 200px;
+      width:90%;
+      background-color:rgba(245, 245, 245, 1);
+      border-radius:20px;
+      border-top-left-radius: 100px;
+     
+  }
+  .p4-arrows-pos{
+      display: flex;
+      justify-content: flex-end;
+  }
+  .circlep4{
+      cursor: pointer;
+    display: flex;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color:skyblue;
+    position: relative;
+    top:.5em;
+    left:1em;
+}
+.p4-icon{
+    color:darkred;
+    margin-top: -.2em;
+    margin-right: .3em;
+    
+}
+.brown{
+    color:sienna
+}
+.blue{
+    color:skyblue;
+}
+.arrow-pos4{
+    color:white;
+    margin: 0 auto;
+    position: relative;
+    top:1.3em;
+}
+.cards-para{
+    font-size: 1.2rem;
+    color:white;
+    text-align: center;
+    position: relative;
+    top:4em;
+}
