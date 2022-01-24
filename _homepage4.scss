@@ -1,8 +1,10 @@
 .whole-p4{
+    padding-top:1.7em;
     height: 1000px;
-    background-image: url(../../images/p4-wall.jpg);
+    background-image: url(../../images/p4-wall2.jpg);
     background-repeat: no-repeat;
     background-size:cover;
+    
 }
 
 .p3-up-boxes{
@@ -56,11 +58,11 @@
 }
 
 .p4-text p {
-    color:rgba(255, 255, 255, 1);
+    color:rgb(119, 110, 110);
     margin-bottom:.5em;
 }
 .p4-text h1{
-color: white;
+color: rgb(90, 88, 88);
 
 }
 
@@ -139,4 +141,7 @@ color: white;
     text-align: center;
     position: relative;
     top:4em;
+}
+.circ4{
+    margin-bottom: 2em;
 }

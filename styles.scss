@@ -10,12 +10,15 @@
 body{
     width:100%; 
     font-family: 'Fjalla One', sans-serif;
+    background-color: rgb(236, 236, 236);
 }
 .container-homepage1{
     width:100%;
     background-image: url(../../images/doctor-table.jpg);
     background-repeat: no-repeat,;
     background-size:cover;
+    border-bottom-left-radius:100px;
+    border-bottom-right-radius: 100px;
 }
     
 .upper-sec{
@@ -163,9 +166,7 @@ body{
 }
 .lower-sec {
     height: 400px;
-    background-image: url(../../images/medicals.jpg);
-    background-repeat: no-repeat,;
-    background-size:cover;
+    background-color: rgb(236, 236, 236);
     text-align: center;
     margin-top: 6em;
 }
